@@ -1,3 +1,3 @@
 def get_message():
-    return "Версия из ветки main"
+    return "Изменения обеих веток объединены"
 print(get_message())
