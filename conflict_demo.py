@@ -1,3 +1,3 @@
 def get_message():
-    return "Начальный вариант"
+    return "Версия из ветки main"
 print(get_message())
